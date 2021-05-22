@@ -11,4 +11,4 @@ The repository contains 5 notebooks that can be launched in Google Colab.
   4. **Trasfer:** Translation of the dataset from Russsan to Swedish and sentence-embeddings clustering.
   5. **Alignment:** Sentence alignment and verb extraction
 
-The theoretical background data can be found {here} (https://docs.google.com/spreadsheets/d/1WoHV1bv3csVzHUutqzrw01lTxhHqgYmIWKYrVrQiHjg/edit?usp=sharing).
+The theoretical background data can be found (here){https://docs.google.com/spreadsheets/d/1WoHV1bv3csVzHUutqzrw01lTxhHqgYmIWKYrVrQiHjg/edit?usp=sharing}.
