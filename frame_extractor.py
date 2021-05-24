@@ -89,8 +89,8 @@ def persist_key_to(dict_db, key):
 
 
 def tupleize_by_SVO(dict_db, corpus, text_corpus):
-    '''Функция находит подлежащее, сказуемое и прямое дополнение
-    создает кортеж'''
+    '''Esctract subject, verb, and direct object, 
+    returns a tuple of lemmas and word forms'''
 
     TAG_SUBJECT = 'nsubj'.lower()
     TAG_OBJECT = 'obj'.lower()
