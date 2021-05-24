@@ -1,6 +1,6 @@
 # Vectorisation
 
-Testing of the models on simple classification task in order to choose best vectoriser for the further experiments. The following kinds of vectorisation are trsted:
+Testing of the models on simple classification task in order to choose best vectoriser for the further experiments. The following kinds of vectorisation are tested:
 
 1. TF-IDF
 2. mBERT [MASK]
