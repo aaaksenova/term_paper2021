@@ -1,7 +1,7 @@
 # The Notion of Semantic Frames in Transformer Models: Application to Lexical Typology Study
 
 
-This is code for the term paper in HSE university. 
+This is the code of the term paper project in HSE university. 
 
 The repository contains 4 notebooks that can be launched in Google Colab. Directories contain all the necessary data. 
 
@@ -11,4 +11,4 @@ The repository contains 4 notebooks that can be launched in Google Colab. Direct
   4. **Trasfer:** Translation of the dataset from Russsan to Swedish and sentence-embeddings clustering.
   5. **Alignment:** Sentence alignment and verb extraction
 
-The theoretical background data can be found [here](https://docs.google.com/spreadsheets/d/1WoHV1bv3csVzHUutqzrw01lTxhHqgYmIWKYrVrQiHjg/edit?usp=sharing).
+Theoretical background data can be found [here](https://docs.google.com/spreadsheets/d/1WoHV1bv3csVzHUutqzrw01lTxhHqgYmIWKYrVrQiHjg/edit?usp=sharing).
